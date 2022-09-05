@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+#pyCharm
+.idea
 
 # Spyder project settings
 .spyderproject
@@ -128,5 +130,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# pycharm files
-.idea
+# Project specific
+settings.ini

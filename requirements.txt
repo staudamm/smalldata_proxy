@@ -1,0 +1,3 @@
+python-decouple
+python-osc
+klein==21.8.0

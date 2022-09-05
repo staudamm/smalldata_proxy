@@ -1,0 +1,14 @@
+[settings]
+# This is where the proxy-server listens
+HOSTNAME=localhost
+PORT=8080
+PROXY_ADDRESS=/interpreter_input
+
+# This is where the proxy-server forwards to
+COLLIDER_IP=127.0.0.1
+COLLIDER_PORT=57120
+COLLIDER_ROUTE=/interpreter_input
+
+VISUALS_IP=192.168.178.53
+VISUALS_PORT=5040
+VISUALS_ROUTE=/display_input
